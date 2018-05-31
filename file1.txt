@@ -7,3 +7,4 @@ root test......................root test root test
 4. line 4..................from test2
 5. line 5..................from test2
 6. line 6..................from test2
+7. line 7..................from test2
